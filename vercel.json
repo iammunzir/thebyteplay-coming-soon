@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/(.*)","destination":"https://thebyteplay.abacusai.app/$1"}]}
